@@ -1,1 +1,1 @@
-hello git second
+<?php echo "Change from GitHub"; ?>
